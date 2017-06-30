@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml-body>   
+    <html>
+        <head>  
+  
+        </head>  
+        <body>  
+        	<div>
+        		<table>
+        			<thead>
+        				<tr>
+        					<th>姓名</th>
+        					<th>工资</th>
+        					<th>日期</th>
+        				</tr>
+        			</thead>
+        			<tbody>
+        				<tr>
+        					<td></td>
+        					<td></td>
+        					<td></td>
+        				</tr>
+        			</tbody>
+        		</table>
+        	</div>	
+        </body>  
+    </html>
+</xml-body>
